@@ -1,0 +1,11 @@
+C:\Users\Jayashree\source\repos\Mathematics\Mathematics\bin\Debug\netcoreapp3.1\Mathematics.exe
+C:\Users\Jayashree\source\repos\Mathematics\Mathematics\bin\Debug\netcoreapp3.1\Mathematics.deps.json
+C:\Users\Jayashree\source\repos\Mathematics\Mathematics\bin\Debug\netcoreapp3.1\Mathematics.runtimeconfig.json
+C:\Users\Jayashree\source\repos\Mathematics\Mathematics\bin\Debug\netcoreapp3.1\Mathematics.runtimeconfig.dev.json
+C:\Users\Jayashree\source\repos\Mathematics\Mathematics\bin\Debug\netcoreapp3.1\Mathematics.dll
+C:\Users\Jayashree\source\repos\Mathematics\Mathematics\bin\Debug\netcoreapp3.1\Mathematics.pdb
+C:\Users\Jayashree\source\repos\Mathematics\Mathematics\obj\Debug\netcoreapp3.1\Mathematics.AssemblyInfoInputs.cache
+C:\Users\Jayashree\source\repos\Mathematics\Mathematics\obj\Debug\netcoreapp3.1\Mathematics.AssemblyInfo.cs
+C:\Users\Jayashree\source\repos\Mathematics\Mathematics\obj\Debug\netcoreapp3.1\Mathematics.dll
+C:\Users\Jayashree\source\repos\Mathematics\Mathematics\obj\Debug\netcoreapp3.1\Mathematics.pdb
+C:\Users\Jayashree\source\repos\Mathematics\Mathematics\obj\Debug\netcoreapp3.1\Mathematics.csprojAssemblyReference.cache

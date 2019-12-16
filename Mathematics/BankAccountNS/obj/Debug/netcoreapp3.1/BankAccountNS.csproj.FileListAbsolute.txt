@@ -1,0 +1,10 @@
+C:\Users\Jayashree\source\repos\Mathematics\BankAccountNS\bin\Debug\netcoreapp3.1\BankAccountNS.exe
+C:\Users\Jayashree\source\repos\Mathematics\BankAccountNS\bin\Debug\netcoreapp3.1\BankAccountNS.deps.json
+C:\Users\Jayashree\source\repos\Mathematics\BankAccountNS\bin\Debug\netcoreapp3.1\BankAccountNS.runtimeconfig.json
+C:\Users\Jayashree\source\repos\Mathematics\BankAccountNS\bin\Debug\netcoreapp3.1\BankAccountNS.runtimeconfig.dev.json
+C:\Users\Jayashree\source\repos\Mathematics\BankAccountNS\bin\Debug\netcoreapp3.1\BankAccountNS.dll
+C:\Users\Jayashree\source\repos\Mathematics\BankAccountNS\bin\Debug\netcoreapp3.1\BankAccountNS.pdb
+C:\Users\Jayashree\source\repos\Mathematics\BankAccountNS\obj\Debug\netcoreapp3.1\BankAccountNS.AssemblyInfoInputs.cache
+C:\Users\Jayashree\source\repos\Mathematics\BankAccountNS\obj\Debug\netcoreapp3.1\BankAccountNS.AssemblyInfo.cs
+C:\Users\Jayashree\source\repos\Mathematics\BankAccountNS\obj\Debug\netcoreapp3.1\BankAccountNS.dll
+C:\Users\Jayashree\source\repos\Mathematics\BankAccountNS\obj\Debug\netcoreapp3.1\BankAccountNS.pdb
